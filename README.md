@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# HOToolkit 
 
-You can use the [editor on GitHub](https://github.com/cyclex25/HOToolkit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+OSX Security Audit and Hardening Toolkit
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+HOToolkit is nothing else than yet another Security Audit Tool. 
 
-### Markdown
+Being an Automator app to OSX, this Toolkit contains mainly a stack of useful scripts written in bash to check the security of your system and bring more ease to setting up a well hardened OSX. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nonetheless this Toolkit should provide free solution to help the average person increase not only security awareness but the real security of daily use systems. Anyways, some bare sense of security awareness expected, this Toolkit will provide good help bringing you from 0 near Enterprise Level Security in an eyeblink (well in comparison), if you wish so. 
 
-```markdown
-Syntax highlighted code block
+HOToolkit trys as much as possible to make a good deal between security and convenience of your daily user experience. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cyclex25/HOToolkit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+coming 2017 ... 
